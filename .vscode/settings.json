@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/21b845ae-773e-49f8-a6e5-cb5d9a3b1513/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/MLSAtas",
+    "appService.deploySubpath": "."
+}
